@@ -1,0 +1,61 @@
+1984,George Orwell,Dystopian Fiction,9780451524935,0,328,15
+To Kill a Mockingbird,Harper Lee,Classic Fiction,9780446310789,0,336,20
+Pride and Prejudice,Jane Austen,Romance,9780141439518,0,432,18
+The Great Gatsby,F. Scott Fitzgerald,Literary Fiction,9780743273565,0,180,12
+Moby Dick,Herman Melville,Adventure Fiction,9780142000083,0,720,10
+Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,9780679734505,0,576,8
+The Catcher in the Rye,J.D. Salinger,Coming-of-Age Fiction,9780316769488,0,224,15
+Lord of the Rings,J.R.R. Tolkien,Fantasy,9780544003415,0,1216,12
+War and Peace,Leo Tolstoy,Historical Fiction,9780140447934,0,1296,10
+Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,9780747532743,0,223,25
+The Alchemist,Paulo Coelho,Philosophical Fiction,9780061122415,0,197,20
+The Hobbit,J.R.R. Tolkien,Fantasy,9780345339683,0,320,15
+Frankenstein,Mary Shelley,Science Fiction,9780486282114,0,208,12
+The Odyssey,Homer,Classic Epic,9780140268867,0,560,10
+The Lord of the Flies,William Golding,Allegorical Novel,9780571056866,0,224,18
+Brave New World,Aldous Huxley,Science Fiction,9780060850524,0,288,15
+Don Quixote,Miguel de Cervantes,Adventure Fiction,9780060188702,0,1056,8
+Pride and Prejudice,Jane Austen,Romance,9780141439518,0,432,18
+One Hundred Years of Solitude,Gabriel Garcia Marquez,Magical Realism,9780061120091,0,417,10
+The Divine Comedy,Dante Alighieri,Epic Poetry,9780142437223,0,928,8
+The Grapes of Wrath,John Steinbeck,Historical Fiction,9780143039433,0,464,15
+The Count of Monte Cristo,Alexandre Dumas,Adventure Fiction,9780140449266,0,1276,12
+Anna Karenina,Leo Tolstoy,Romantic Fiction,9780143035008,0,864,10
+The Picture of Dorian Gray,Oscar Wilde,Gothic Fiction,9780141439570,0,240,18
+The Adventures of Huckleberry Finn,Mark Twain,Adventure Fiction,9780143107323,0,400,15
+The Little Prince,Antoine de Saint-Exupéry,Novella,9780156012195,0,96,20
+The Chronicles of Narnia,C.S. Lewis,Fantasy,9780064404990,0,767,10
+Catch-22,Joseph Heller,Satire,9780684833392,0,544,12
+Jane Eyre,Charlotte Bronte,Gothic Fiction,9780142437209,0,624,10
+The Kite Runner,Khaled Hosseini,Historical Fiction,9781594632204,0,400,15
+Wuthering Heights,Emily Bronte,Romantic Fiction,9780141439556,0,416,12
+The Scarlet Letter,Nathaniel Hawthorne,Romance,9780486280486,0,240,18
+The Hunger Games,Suzanne Collins,Dystopian Fiction,9780439023481,0,384,20
+Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,9780440180296,0,275,15
+The Book Thief,Markus Zusak,Historical Fiction,9780375842207,0,576,10
+The Canterbury Tales,Geoffrey Chaucer,Classic Poetry,9780140424386,0,528,8
+Great Expectations,Charles Dickens,Classic Fiction,9780141439563,0,544,12
+Animal Farm,George Orwell,Satire,9780452284241,0,144,20
+The Hobbit,J.R.R. Tolkien,Fantasy,9780345339683,0,320,15
+The Handmaid's Tale,Margaret Atwood,Dystopian Fiction,9780385490818,0,311,18
+The Da Vinci Code,Dan Brown,Mystery,9780307474278,0,592,10
+Fahrenheit 451,Ray Bradbury,Dystopian Fiction,9781451673319,0,249,15
+Les Misérables,Victor Hugo,Historical Fiction,9780451419439,0,1488,8
+The Adventures of Tom Sawyer,Mark Twain,Adventure Fiction,9780486400778,0,224,12
+A Game of Thrones,George R.R. Martin,Fantasy,9780553573404,0,848,10
+Gone with the Wind,Margaret Mitchell,Historical Fiction,9781451635621,0,960,8
+The Color Purple,Alice Walker,Fiction,9780156028356,0,288,18
+The Shining,Stephen King,Horror Fiction,9780345806789,0,688,12
+Dracula,Bram Stoker,Horror Fiction,9780486411095,0,432,15
+The Iliad,Homer,Epic Poetry,9780140447941,0,704,10
+Embers,Sandor Marai,Fiction,9780676976364,0,224,10
+The Door,Magda Szabo,Fiction,9781843432451,0,288,8
+Journey by Moonlight,Antal Szerb,Fiction,9781590173909,0,384,12
+Fatelessness,Imre Kertesz,Fiction,9781400078630,0,272,15
+Satantango,Laszlo Krasznahorkai,Fiction,9780811214575,0,288,10
+The Hatchet,Mihail Sadoveanu,Fiction,9789737073188,0,320,10
+Forest of the Hanged,Liviu Rebreanu,Fiction,9781846590627,0,384,8
+The Enchanted Grove,Mateiu Caragiale,Fiction,9789734607917,0,256,12
+Blinding,Mircea Cartarescu,Fiction,9780811228749,0,464,15
+The Forbidden Forest,Mircea Eliade,Fiction,9780226204182,0,192,10
+Pride and Prejudice,Jane Austen,Romance,9780440242949,0,432,18
