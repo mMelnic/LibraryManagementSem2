@@ -1,8 +1,8 @@
 #pragma once
 #include<algorithm>
-#include"Book.h"
-#include"Reader.h"
-#include"Librarian.h"
+#include"../models/Book.h"
+#include"../user/Reader.h"
+#include"../user/Librarian.h"
 
 class Utility {
 public:

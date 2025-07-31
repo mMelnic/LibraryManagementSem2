@@ -1,7 +1,7 @@
 #pragma once
 #include "User.h"
-#include "Copy.h"
-#include "Utility.h"
+#include "../models/Copy.h"
+#include "../utils/Utility.h"
 
 class Librarian : public User{
 public:

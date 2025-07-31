@@ -1,4 +1,4 @@
-#include "Functionality.h"
+#include "../../include/utils/Functionality.h"
 
 int print_mainMenu()
 {
@@ -57,7 +57,7 @@ void mainMenu_functionality()
 {
 	try {
 		// Load the book collection from a file
-		std::vector<Book*> library_collection = load_books_from_file("books.txt");
+		std::vector<Book*> library_collection = load_books_from_file("../../resources/books.txt");
 		// Continue displaying the main menu until the user chooses to exit
 		while (true)
 		{

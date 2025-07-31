@@ -1,5 +1,5 @@
-#include "Book.h"
-#include "Copy.h"
+#include "../../include/models/Book.h"
+#include "../../include/models/Copy.h"
 
 Book::Book(std::string title, std::string author, std::string genre, std::string isbn, int nrCopies, int nrPages, double rating) : 
 	title(title), author(author), genre(genre), isbn(isbn), nrCopies(nrCopies), nrPages(nrPages), rating(rating)

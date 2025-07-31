@@ -1,4 +1,4 @@
-#include "User.h"
+#include "../../include/user/User.h"
 
 User::User(std::string username, std::string password, std::string email) : username(username), password(password), email_address(email) {}
 

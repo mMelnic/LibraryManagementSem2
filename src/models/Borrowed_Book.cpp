@@ -1,4 +1,4 @@
-#include "Borrowed_Book.h"
+#include "../../include/models/Borrowed_Book.h"
 
 BorrowedBook::BorrowedBook(Copy* copy, Reader* borrower, Book* book) : copy(copy), borrower(borrower), book(book) {}
 

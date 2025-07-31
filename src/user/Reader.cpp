@@ -1,5 +1,5 @@
-#include "Reader.h"
-#include "Borrowed_Book.h"
+#include "../../include/user/Reader.h"
+#include "../../include/models/Borrowed_Book.h"
 
 Reader::Reader(std::string username, std::string password, std::string email) : 
     User(username, password, email) {}

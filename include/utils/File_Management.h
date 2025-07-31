@@ -1,6 +1,6 @@
 #pragma once
-#include "Book.h"
-#include "Borrowed_Book.h"
+#include "../models/Book.h"
+#include "../models/Borrowed_Book.h"
 
 // Function to convert user-defined objects to string, mainly Book and BorrowedBook objects
 template<typename T>

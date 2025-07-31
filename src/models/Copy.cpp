@@ -1,4 +1,4 @@
-#include "Copy.h"
+#include "../../include/models/Copy.h"
 
 int Copy::nextCopy_id = 0;
 
