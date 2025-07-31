@@ -12,7 +12,7 @@ A comprehensive C++ console application for managing library operations, designe
 - [Classes and Components](#classes-and-components)
 - [File Structure](#file-structure)
 - [Technical Details](#technical-details)
-- [Contributing](#contributing)
+- [Future Enhancements](#future-enhancements)
 
 ## Overview
 
@@ -29,27 +29,27 @@ The project demonstrates key C++ concepts including:
 ## Features
 
 ### For Librarians
-- ✅ Add new books to the library collection
-- ✅ Delete books from the library
-- ✅ Update existing book details
-- ✅ View complete library collection
-- ✅ Manage book copies and availability
+-  Add new books to the library collection
+-  Delete books from the library
+-  Update existing book details
+-  View complete library collection
+-  Manage book copies and availability
 
 ### For Readers
-- ✅ Search books by title or author
-- ✅ Borrow available books
-- ✅ Return borrowed books
-- ✅ Rate books (0-5 star rating system)
-- ✅ View personal borrowed books history
-- ✅ Browse entire library collection
+-  Search books by title or author
+-  Borrow available books
+-  Return borrowed books
+-  Rate books (0-5 star rating system)
+-  View personal borrowed books history
+-  Browse entire library collection
 
 ### System Features
-- ✅ User authentication (separate for librarians and readers)
-- ✅ Account creation with validation
-- ✅ Persistent data storage in text files
-- ✅ Copy management system for multiple instances of books
-- ✅ Automatic ISBN validation and duplicate prevention
-- ✅ Book rating and review system
+-  User authentication (separate for librarians and readers)
+-  Account creation with validation
+-  Persistent data storage in text files
+-  Copy management system for multiple instances of books
+-  Automatic ISBN validation and duplicate prevention
+-  Book rating and review system
 
 ## Project Structure
 
