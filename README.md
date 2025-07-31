@@ -131,9 +131,10 @@ Each user type has distinct workflows and permissions within the system.
 3. Choose "2. Log in" (or create account if first time with access code IK009)
 4. Enter librarian credentials
    
-    <img src="assets/librarian_account.png" width="400">
-    
-    <img src="assets/librarian_login.png" width="400">
+<img src="assets/librarian_account.png" width="400">
+
+<img src="assets/librarian_login.png" width="400">
+
 5. From librarian menu, select "1. Add a book to the library"
 6. Enter book details:
    - Title: The Great Gatsby
